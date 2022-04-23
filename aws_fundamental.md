@@ -1,24 +1,23 @@
 <!-- IAM -->
-# AWS Fundamental
-## IAM
+# IAM
 ------
 AWS Access keys - only 2 access key
 
-## AWS Region
+# AWS Region
 ------
-### Description
+## Description
 * individual availability zone
-### Benefit
+## Benefit
 * geographic seperation, isolated fault domain
 * geopolitical seperation, different governance
 * location control - performance
 
-## AWS Edge Location
+# AWS Edge Location
 ------
 None
 
 <!-- VPC -->
-## VPC
+# VPC
 ------
 __Two type__
 * Default VPC
