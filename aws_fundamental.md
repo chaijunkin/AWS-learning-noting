@@ -1,10 +1,18 @@
 <!-- IAM -->
 # IAM
-------
 AWS Access keys - only 2 access key
 
+
+<!-- Public and Private service -->
+# AWS Public and Private service
+## Type
+- AWS public zone
+- AWS private zone
+- Public network (others)
+
+
+<!-- Global Service -->
 # AWS Region
-------
 ## Description
 * individual availability zone
 ## Benefit
@@ -13,13 +21,12 @@ AWS Access keys - only 2 access key
 * location control - performance
 
 # AWS Edge Location
-------
 None
+
 
 <!-- VPC -->
 # VPC
-------
-__Two type__
+## Two type
 * Default VPC
   * only 1 per region
 * Custom VPC
